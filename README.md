@@ -1,3 +1,4 @@
 # satish-demo
-This is my first Git-Repository
-Author-Shatish Srivastava
+This is my first Git-Repository.
+<br>
+Author by Shatish Srivastava
